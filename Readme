@@ -1,0 +1,9 @@
+To-Do List App
+
+A simple To-Do List app built with React Native, featuring task management and login authentication.
+
+Features:
+
+Add tasks
+Delete tasks
+User authentication (login)
